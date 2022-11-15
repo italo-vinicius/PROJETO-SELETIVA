@@ -9,7 +9,7 @@
 .box {
     padding: 30px;
     width: 40vw;
-    background: rgba(145, 203, 0, 0.791);
+    background: rgba(0, 112, 107, 0.791);
     box-shadow: 4px 4px 10px rgba(0,0,0,.3);
 }
 
@@ -19,7 +19,7 @@
 
 .titulo{
 
-    color: #010a6f;
+    color: #B5FFE1;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
